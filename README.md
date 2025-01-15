@@ -51,7 +51,7 @@ npm start
 
 Kopi: https://trakteer.id/Winsnipsupport/tip
 
-Join Telegram Winsnip
+**Join Telegram Winsnip**
 
 Stay updated and connect with the Winsnip community:
 
