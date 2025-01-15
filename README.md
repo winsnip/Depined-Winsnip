@@ -37,16 +37,17 @@ https://t.me/DePINedCommunity
    screen -S depined
 ```
 
-Detach from the screen session without closing it: Press Ctrl + A, then press D to detach from the screen session.
 
-Reattach to the running screen session:
-```
-   screen -r depined
-```
-
-5. Run the Application
+5. **Run the Application**
 ```
    npm start
+```
+
+Detach from the screen session without closing it: Press Ctrl + A, then press D to detach from the screen session.
+
+6. ***Reattach to the running screen session**:
+```
+   screen -r depined
 ```
 
 Kopi: https://trakteer.id/Winsnipsupport/tip
