@@ -39,23 +39,23 @@ https://t.me/DePINedCommunity
    F12 Or inspect look for the address prefix eyxx then paste it in the tokens.txt file
    
 4. **Create and Use Screen**
-```
+   ```
    screen -S depined
-```
+   ```
 
 5. **Run the Application**
-```
-   npm start
-```
+   ```
+    npm start
+   ```
 
 Detach from the screen session without closing it: Press Ctrl + A, then press D to detach from the screen session.
 
 6. ***Reattach to the running screen session**:
-```
-   screen -r depined
-```
+   ```
+    screen -r depined
+   ```
 
-Kopi: https://trakteer.id/Winsnipsupport/tip
+**Kopi**: https://trakteer.id/Winsnipsupport/tip
 
 ### **Join Telegram Winsnip**
 
