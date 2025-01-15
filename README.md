@@ -2,7 +2,10 @@
 
 [![Depined-Winsnip Logo](https://i.postimg.cc/q7Hp34wg/IMG-20250115-094932-074.jpg)](https://postimg.cc/9D1333vj)
 
-This project automates the registration and configuration process on [DePINed](https://app.depined.org/) by integrating token and proxy settings.
+### This project automates the registration and configuration process on https://app.depined.org/ by integrating token and proxy settings.
+
+### Get Code Activavacy On
+https://t.me/DePINedCommunity
 
 ## Features
 - Automates registration on the DePINed application.
