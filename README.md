@@ -24,10 +24,10 @@ This project automates the registration and configuration process on [DePINed](h
    ```
 3. **Konfigurasi File**
 
-Buat file .env:
+    Buat file .env:
 
-PROXY_URL=http://proxyanda.com:port
-TOKEN=eyxxx...(token aplikasi)
+    PROXY_URL=http://proxyanda.com:port
+    TOKEN=eyxxx...(token aplikasi)
 
 4. **Create and Use Screen**
 ```
