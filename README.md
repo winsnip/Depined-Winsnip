@@ -29,7 +29,16 @@ https://t.me/DePINedCommunity
 ```
    screen -S depined
 ```
-
+4. **fill in proxy & Tokens**
+   ```
+   nano proxy.txt
+   ```
+   ctrl X Y Enter
+   ```
+   nano tokens.txt
+   ```
+   How to get Tokens?:
+   F12 Or inspect look for the address prefix eyxx then paste it in the tokens.txt file
 
 4. **Run the Application**
 ```
