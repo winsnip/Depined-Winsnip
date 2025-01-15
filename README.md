@@ -25,27 +25,20 @@ https://t.me/DePINedCommunity
    ```
    npm install
    ```
-3. **Konfigurasi File**
-
-   create file .env:
-
-   PROXY_URL=http://proxyanda.com:port
-   TOKEN=eyxxx...(token aplikasi)
-
-4. **Create and Use Screen**
+3. **Create and Use Screen**
 ```
    screen -S depined
 ```
 
 
-5. **Run the Application**
+4. **Run the Application**
 ```
    npm start
 ```
 
 Detach from the screen session without closing it: Press Ctrl + A, then press D to detach from the screen session.
 
-6. ***Reattach to the running screen session**:
+5. ***Reattach to the running screen session**:
 ```
    screen -r depined
 ```
