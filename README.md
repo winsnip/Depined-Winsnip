@@ -29,5 +29,34 @@ Buat file .env:
 PROXY_URL=http://proxyanda.com:port
 TOKEN=eyxxx...(token aplikasi)
 
-4. 
+4. **Create and Use Screen**
+```
+screen -S depined
+```
+
+Detach from the screen session without closing it: Press Ctrl + A, then press D to detach from the screen session.
+
+Reattach to the running screen session:
+```
+screen -r depined
+```
+
+5. Run the Application
+```
+npm start
+```
+
+Kopi: https://trakteer.id/Winsnipsupport/tip
+
+Join Telegram Winsnip
+
+Stay updated and connect with the Winsnip community:
+
+Channel: https://t.me/winsnip
+
+Group Chat: https://t.me/winsnip_chat
+
+
+This ensures users can join the Telegram community easily and stay engaged with updates and discussions.
+
 
