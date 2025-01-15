@@ -25,11 +25,9 @@ https://t.me/DePINedCommunity
    ```
    npm install
    ```
-3. **Create and Use Screen**
-```
-   screen -S depined
-```
-4. **fill in proxy & Tokens**
+
+   
+3. **fill in proxy & Tokens**
    ```
    nano proxy.txt
    ```
@@ -39,15 +37,20 @@ https://t.me/DePINedCommunity
    ```
    How to get Tokens?:
    F12 Or inspect look for the address prefix eyxx then paste it in the tokens.txt file
+   
+4. **Create and Use Screen**
+```
+   screen -S depined
+```
 
-4. **Run the Application**
+5. **Run the Application**
 ```
    npm start
 ```
 
 Detach from the screen session without closing it: Press Ctrl + A, then press D to detach from the screen session.
 
-5. ***Reattach to the running screen session**:
+6. ***Reattach to the running screen session**:
 ```
    screen -r depined
 ```
